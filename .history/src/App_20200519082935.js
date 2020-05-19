@@ -3,8 +3,7 @@ import logo from './logo.svg';
 //import { GoogleMap, LoadScript } from '@react-google-maps/api';
 import Tourma from "./features/tourmap/Tourma";
 import Tourmap from "./features/tourmap/Tourmap";
-import BearDrop from "./features/beardrop/BearDrop";
-
+import Bear
 import './App.css';
 
 const App = () => {

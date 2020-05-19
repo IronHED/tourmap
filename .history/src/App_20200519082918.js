@@ -3,8 +3,6 @@ import logo from './logo.svg';
 //import { GoogleMap, LoadScript } from '@react-google-maps/api';
 import Tourma from "./features/tourmap/Tourma";
 import Tourmap from "./features/tourmap/Tourmap";
-import BearDrop from "./features/beardrop/BearDrop";
-
 import './App.css';
 
 const App = () => {
@@ -74,7 +72,7 @@ const App = () => {
         
         <div className="four">
         Grid-Four
-        <BearDrop />
+        <BearDrop 
         </div>
 
         <div className="five">
